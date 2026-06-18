@@ -1,0 +1,26 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f5083a56-75db-4425-a0ee-887fd5c8b63a"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 26
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "c9969eef-85a8-4d8c-87ab-5cb6dc4534a0",
+          "DisplayValue": "My applications"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "822d51c4-3e26-4d1d-8075-134c02d8eb12",
+          "DisplayValue": "Yachts"
+        }
+      ]
+    }
+  ]
+}
