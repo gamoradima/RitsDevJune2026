@@ -44,6 +44,10 @@
   "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
   "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
   "E6": true,
+  "E12": {
+    "FB1": 3,
+    "FB2": "4f367ca9-549b-4a1a-b64e-a40123f52ac0"
+  },
   "E17": "UsrManagerId",
   "E18": "UsrManagerName"
 }
@@ -54,7 +58,10 @@
   "A4": "1914ea3b-f873-4960-892b-ef847406eb3a",
   "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb",
   "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
-  "E25": true
+  "E12": {
+    "FB1": 1,
+    "FB2": "test"
+  }
 }
 + MetaData.Schema.D2 {
   "UId": "f0ff0f62-c1f0-3f3b-257b-17fdb4d27581",
@@ -66,6 +73,10 @@
   "S4": "9b02e8d3-ca39-4dd4-90dd-53b86eb13f06",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "737add96-4350-4357-b19b-d236301a16c2"
+  },
   "E17": "UsrStatusId",
   "E18": "UsrStatusName"
 }
@@ -79,6 +90,10 @@
   "S4": "9990c85a-13d0-416a-88b3-64c27d24b9b3",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "010f7cda-6edc-4861-87e3-98abed0b180b"
+  },
   "E17": "UsrDriveTypeId",
   "E18": "UsrDriveTypeName"
 }
@@ -88,7 +103,25 @@
   "A3": "1914ea3b-f873-4960-892b-ef847406eb3a",
   "A4": "1914ea3b-f873-4960-892b-ef847406eb3a",
   "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb",
-  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "E12": {
+    "FB1": 1,
+    "FB2": "200"
+  }
+}
++ MetaData.Schema.D2 {
+  "UId": "dc415e6e-84ca-6b90-a52b-b3733c8ae3e8",
+  "A2": "UsrNumber",
+  "A3": "1914ea3b-f873-4960-892b-ef847406eb3a",
+  "A4": "1914ea3b-f873-4960-892b-ef847406eb3a",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac",
+  "E5": false,
+  "E12": {
+    "FB1": 4,
+    "FB4": "Y-",
+    "FB5": 2
+  }
 }
 ~ MetaData.Schema.D2 [
   "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
@@ -103,7 +136,8 @@
   "a37fea4d-ee27-5390-af03-4ea9bedb9e6b",
   "f0ff0f62-c1f0-3f3b-257b-17fdb4d27581",
   "712e422e-c09d-481a-da68-77ef0459c4c0",
-  "8bdb77b0-657a-ab83-e51f-94d2d84116aa"
+  "8bdb77b0-657a-ab83-e51f-94d2d84116aa",
+  "dc415e6e-84ca-6b90-a52b-b3733c8ae3e8"
 ]
 = MetaData.Schema.D20.A2 "UsrYachtsEvents"
 + MetaData.Schema.D20.FA1 false
