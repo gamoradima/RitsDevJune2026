@@ -29,6 +29,90 @@
   "A4": "2f60e617-830c-46ea-a97d-024317789c44",
   "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
 }
++ MetaData.Schema.B2 {
+  "UId": "132b8c21-5607-7668-22ed-3fb93584c71c",
+  "A2": "ManagerEmail_label",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "abcfbd5e-3bc7-0fa4-7952-84dc1de0d0b8",
+  "A2": "Input_u2zl2eq_label",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "43185656-dd79-c7b3-ad9c-4ff825327d28",
+  "A2": "PassengersCountCannotBeLess",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "4c9478b0-c026-31ad-801c-e51d774a6036",
+  "A2": "PriceCannotBeLess",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "c42d4f13-a122-4a0e-be1d-c1beffd7e3cb",
+  "A2": "GridDetailSearchFilter_aj1xuit_placeholder",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "852cac23-cfba-1c29-1f8a-a726b67fa731",
+  "A2": "GridDetailImportDataBtn_mjszo3x_caption",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "f66dc1b7-9b57-7716-5d5a-549a00401d3a",
+  "A2": "GridDetailExportDataBtn_yoxta4l_caption",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "4fa296da-2a3b-3532-48ee-c3e6dd283d20",
+  "A2": "GridDetailSettingsBtn_ni12tjy_caption",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "7c96853c-d9d0-f7b7-5664-86333add4a65",
+  "A2": "GridDetailRefreshBtn_ocdmgcj_caption",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "6bd87306-ec74-ad6f-e7fb-a3d3009470c7",
+  "A2": "GridDetailAddBtn_5zfvc0u_caption",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "9c4d6b2d-bc79-c42d-7a96-b967a8ed330a",
+  "A2": "ExpansionPanel_29gbdku_title",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
++ MetaData.Schema.B2 {
+  "UId": "800e7487-7dea-5676-d45c-ea215d5c46c2",
+  "A2": "CategoryMultiSelect_label",
+  "A3": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A4": "2f60e617-830c-46ea-a97d-024317789c44",
+  "A5": "ff4cbc16-aad7-4e81-93df-3f39659dc2fb"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "2f60e617-830c-46ea-a97d-024317789c44"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "2f60e617-830c-46ea-a97d-024317789c44"
 = MetaData.Schema.B2.["a53e6c9a-741a-21de-9293-9d87d6014595"].A4 "2f60e617-830c-46ea-a97d-024317789c44"
@@ -47,6 +131,18 @@
   "4b61612e-7863-f878-9d2d-040fa581b694",
   "9158a7dc-3124-0af5-844f-84de5b65c9a6",
   "e477a4da-2379-4a6e-9f1e-10c486309b5a",
+  "132b8c21-5607-7668-22ed-3fb93584c71c",
+  "abcfbd5e-3bc7-0fa4-7952-84dc1de0d0b8",
+  "43185656-dd79-c7b3-ad9c-4ff825327d28",
+  "4c9478b0-c026-31ad-801c-e51d774a6036",
+  "c42d4f13-a122-4a0e-be1d-c1beffd7e3cb",
+  "852cac23-cfba-1c29-1f8a-a726b67fa731",
+  "f66dc1b7-9b57-7716-5d5a-549a00401d3a",
+  "4fa296da-2a3b-3532-48ee-c3e6dd283d20",
+  "7c96853c-d9d0-f7b7-5664-86333add4a65",
+  "6bd87306-ec74-ad6f-e7fb-a3d3009470c7",
+  "9c4d6b2d-bc79-c42d-7a96-b967a8ed330a",
+  "800e7487-7dea-5676-d45c-ea215d5c46c2",
   "fd9e5bd2-19ad-68b5-1356-fe7b39d36f28",
   "a77180d7-a9d0-5c7d-a47b-74c0545a1774",
   "a53e6c9a-741a-21de-9293-9d87d6014595",
