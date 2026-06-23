@@ -3,6 +3,8 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yachts form page" />
+			<Item Name="LocalizableStrings.CalcAvgTicketPriceMenuItem_caption.Value" Value="Calculate average ticket price process" />
+			<Item Name="LocalizableStrings.CalcAvgTicketPriceMenuItem_clicked_params_notificationText.Value" Value="Calculation of average ticket price started." />
 			<Item Name="LocalizableStrings.CategoryMultiSelect_label.Value" Value="Categories" />
 			<Item Name="LocalizableStrings.ExpansionPanel_29gbdku_title.Value" Value="Yacht rental" />
 			<Item Name="LocalizableStrings.GridDetailAddBtn_5zfvc0u_caption.Value" Value="New" />
@@ -13,6 +15,7 @@
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_ni12tjy_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.Input_u2zl2eq_label.Value" Value="Text" />
 			<Item Name="LocalizableStrings.ManagerEmail_label.Value" Value="Manager email" />
+			<Item Name="LocalizableStrings.MyActionsButton_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.PassengersCountCannotBeLess.Value" Value="Passengers count cannot be less than 2." />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price per day cannot be less than 500 PLN." />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
