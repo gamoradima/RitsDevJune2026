@@ -19,6 +19,7 @@
 			<Item Name="LocalizableStrings.PassengersCountCannotBeLess.Value" Value="Passengers count cannot be less than 2." />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price per day cannot be less than 500 PLN." />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.RunMaxPriceWebServiceMenuItem_caption.Value" Value="Run max price web service" />
 			<Item Name="LocalizableStrings.addRecord_0wzu79s_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_f3g9ywk_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_j4ed7tv_caption.Value" Value="Add new" />
